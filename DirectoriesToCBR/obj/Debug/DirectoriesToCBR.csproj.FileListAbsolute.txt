@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\bin\Debug\DirectoriesToCBR.exe.config
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\bin\Debug\DirectoriesToCBR.exe
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\bin\Debug\DirectoriesToCBR.pdb
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.Properties.Resources.resources
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.exe
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.pdb
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.frmGenerator.resources
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.UserInput.resources
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.UserInputSeveral.resources
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\lucas\source\repos\DirectoriesToCBR\DirectoriesToCBR\obj\Debug\DirectoriesToCBR.csproj.CopyComplete
